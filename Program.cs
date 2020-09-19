@@ -7,7 +7,8 @@ namespace DatingProfile
         static void Main(string[] args)
         {
             Profile sam = new Profile("Sam Drakkilla", 30, "New York", "USA", "he/him");
-            Console.WriteLine(sam.ViewProfile());
+            Profile vera = new Profile("Vera Veritas", 25);
+            Console.WriteLine(vera.ViewProfile());
             sam.SetHobbies(new string[] {"listening to audiobooks and podcasts", "playing rec sports like bowling and kickball", "writing a speculative fiction novel", "reading advice columns"});
             Console.WriteLine(sam.ViewProfile());
         }

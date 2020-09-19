@@ -11,7 +11,7 @@ namespace DatingProfile
         private string pronouns;
         private string[] hobbies;
 
-       public Profile(string name, int age, string city, string country, string pronouns = "they/them")
+       public Profile(string name, int age, string city = "n/a", string country = "n/a", string pronouns = "they/them")
        {
             this.name = name;
             this.age = age;
