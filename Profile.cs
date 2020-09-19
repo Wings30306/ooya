@@ -18,13 +18,13 @@ namespace DatingProfile
             this.city = city;
             this.country = country;
             this.pronouns = pronouns;
-            this.hobbies = new string[5];
+            this.hobbies = new string[0];
        }
 
        public string ViewProfile()
         {
-            string hobbiesString = String.Join(", ", hobbies);
-            return $"{name}, {age}\nFrom {city}, {country}\nPronouns: {pronouns}\nHobbies: {hobbiesString}";
+            string hobbiesString = (hobbies.Length > 0) ? $"\nHobbies: {String.Join(", ", hobbies)}" : "";
+            return $"{name}, {age}\nFrom {city}, {country}\nPronouns: {pronouns}{hobbiesString}";
         }
         
        public void SetHobbies(string[] hobbies)
