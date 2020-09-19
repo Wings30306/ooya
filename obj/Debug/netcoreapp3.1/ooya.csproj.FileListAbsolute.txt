@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\bin\Debug\netcoreapp3.1\ooya.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\ooya\obj\Debug\netcoreapp3.1\ooya.genruntimeconfig.cache
